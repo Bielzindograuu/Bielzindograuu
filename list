@@ -9,3 +9,9 @@
   <body>
     
     <h1>Lista de Jogos</h1>
+    <ul tipe="I" >
+       <li> PS2
+       <li> XBOX ONE
+       <li> SUPER NINTENDO
+    <ul>
+       <li> God Of War
